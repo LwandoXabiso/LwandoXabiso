@@ -9,11 +9,14 @@
 ### About Me
 
 - 🎓 I'm currently a **Computer Science** student at Eduvos
+- I am a Computer Science student with a strong passion for embedded systems engineering, firmware development, and low-level programming. My primary focus is on microcontrollers, real-time operating systems (RTOS), and hardware-software integration. I enjoy solving complex problems at the intersection of software and hardware, optimizing system performance, and ensuring efficient resource utilization.
+
+While embedded systems are my main interest, I am also developing my skills in web and application development, applying object-oriented programming (OOP) principles to create structured and maintainable software solutions
 - 💡 Exploring **Embedded Systems**, **AI for IoT**, and **Firmware Development**
 - 🔭 Working on:  
   - AI-powered predictive maintenance system  
-  - Gesture-controlled mini drone  
-  - Smart task manager in C#
+  <!-- Gesture-controlled mini drone  
+  - Smart task manager in C#-->
 
 - 🌱 Currently learning:  
   - C/C++ for microcontrollers  
