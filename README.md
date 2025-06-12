@@ -8,9 +8,8 @@
 
 ### About Me
 
-- 
-- 🎓 I'm currently a **Computer Science** student at Eduvos with a strong passion for embedded systems engineering,
-   firmware development, and low-level programming. My primary focus is on microcontrollers, real-time operating systems 
+- I'm currently a **Computer Science** student at Eduvos with a strong passion for embedded systems engineering,
+  firmware development, and low-level programming. My primary focus is on microcontrollers, real-time operating systems 
   (RTOS), and hardware-software integration. I enjoy solving complex problems at the intersection of software and hardware,
   optimizing system performance, and ensuring efficient resource utilization.
 
@@ -23,11 +22,11 @@
   <!-- Gesture-controlled mini drone  
   - Smart task manager in C#-->
 
-- 🌱 Currently learning:  
+- <!--🌱 Currently learning:  
   - C/C++ for microcontrollers  
   - Embedded Linux  
   - Real-time systems  
-  - UML and system design
+  - UML and system design-->
 
 - ✍️ Also interested in drawing (especially cars and yatchs) and calisthenics training
 
