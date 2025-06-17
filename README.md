@@ -32,7 +32,7 @@ and object-oriented programming (OOP) to build structured, scalable, and maintai
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino) <br/>
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
