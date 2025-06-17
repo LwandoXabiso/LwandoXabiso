@@ -11,6 +11,7 @@
 I'm a **Computer Science** student, with a strong passion for embedded systems engineering, firmware development, and low-level programming.
 My primary focus lies in working with microcontrollers, real-time operating systems (RTOS), and hardware-software integration.
 I enjoy tackling complex problems where software meets hardware, optimizing system performance, and ensuring efficient resource utilization.
+
 Alongside embedded systems, I'm also developing my skills in web and application development, distributed programming,
 and object-oriented programming (OOP) to build structured, scalable, and maintainable software solutions across different platforms.
 
