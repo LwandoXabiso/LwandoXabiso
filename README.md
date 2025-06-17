@@ -16,20 +16,7 @@
 - While embedded systems are my main interest, I am also developing my skills in web and application development,
   applying object-oriented programming (OOP) principles to create structured and maintainable 
   software solutions
-- 💡 Exploring **Embedded Systems**, **AI for IoT**, and **Firmware Development**
-- 🔭 Working on:  
-  - AI-powered predictive maintenance system  
-  <!-- Gesture-controlled mini drone  
-  - Smart task manager in C#-->
-
-- <!--🌱 Currently learning:  
-  - C/C++ for microcontrollers  
-  - Embedded Linux  
-  - Real-time systems  
-  - UML and system design-->
-
-- ✍️ Also interested in drawing (especially cars and yatchs) and calisthenics training
-
+- Exploring **Embedded Systems**, **AI for IoT**, and **Firmware Development**
 ---
 
 ### Languages & Tools
