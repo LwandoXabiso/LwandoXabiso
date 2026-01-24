@@ -8,12 +8,14 @@
 
 ### About Me
 
-I'm a **Computer Science** student, with a strong passion for embedded systems engineering, firmware development, and low-level programming.
-My primary focus lies in working with microcontrollers, real-time operating systems (RTOS), and hardware-software integration.
-I enjoy tackling complex problems where software meets hardware, optimizing system performance, and ensuring efficient resource utilization.
+Driven and self-motivated software enthusiast with a strong interest in software and systems engineering. 
+I enjoy building scalable, efficient, and well-structured solutions through object-oriented programming and distributed systems.
 
-Alongside embedded systems, I'm also developing my skills in web and application development, distributed programming,
-and object-oriented programming (OOP) to build structured, scalable, and maintainable software solutions across different platforms.
+My work spans web and application development, where I focus on creating maintainable, user-driven software. 
+I’m especially passionate about how different components of a system communicate and perform together,
+and I’m always looking to deepen my understanding of modern software architecture.
+
+I’m committed to continuous learning and eager to contribute to meaningful projects that solve real-world challenges through clean, reliable code.
 
 ---
 
@@ -29,12 +31,11 @@ and object-oriented programming (OOP) to build structured, scalable, and maintai
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>  -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  -->
 <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <!-- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>  -->
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
- <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
 
