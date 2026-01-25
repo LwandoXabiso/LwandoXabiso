@@ -17,7 +17,7 @@ and I’m always looking to deepen my understanding of modern software architect
 
 I’m committed to continuous learning and eager to contribute to meaningful projects that solve real-world challenges through clean, reliable code.
 
----
+#
 
 ### Tech Stack
 
