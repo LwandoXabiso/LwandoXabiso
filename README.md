@@ -1,7 +1,7 @@
 <h1 align="center"> ♞ Lwando Sgalelana 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Embedded+Systems+Enthusiast;BackEnd+Enthusiast;Software+Engineering&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Embedded+Systems+Enthusiast;BackEnd+Dev+Enthusiast;Software+Engineering&center=true&width=500&height=45">
 </p>
 
 ---
