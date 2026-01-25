@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Embedded+Systems+Enthusiast;BackEnd+Dev+Enthusiast;Software+Engineering&center=true&width=500&height=45">
 </p>
 
----
+#
 
 ### ♞ About Me ⚔️
 
@@ -42,7 +42,7 @@ I’m committed to continuous learning and eager to contribute to meaningful pro
   
 </p>
 
----
+#
 
 ### Let's Connect
 
